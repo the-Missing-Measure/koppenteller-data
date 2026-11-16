@@ -1,0 +1,21 @@
+{
+  "title": "Koppenteller: wie staat er in de kop (open data)",
+  "upload_type": "dataset",
+  "description": "Open data behind koppenteller.nl: one row per headline and one row per person in 21,574 headlines from fifteen Dutch news outlets, January 2025 to November 2026. Read by a language model following a fixed handbook; a check by people is under way (pilot). Methods: https://koppenteller.nl/en/methods",
+  "creators": [
+    {
+      "name": "Bussink, Astrid",
+      "affiliation": "The Missing Measure"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "gender",
+    "news",
+    "headlines",
+    "media",
+    "Netherlands"
+  ],
+  "language": "nld",
+  "access_right": "open"
+}

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Koppenteller: wie staat er in de kop (open data)"
+type: dataset
+version: "2026-11-14"
+date-released: "2026-11-14"
+authors:
+  - family-names: Bussink
+    given-names: Astrid
+    affiliation: "The Missing Measure"
+url: "https://koppenteller.nl/data"
+license: CC-BY-4.0
+keywords: [gender, news, headlines, media, Netherlands, open data]
